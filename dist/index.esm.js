@@ -2215,14 +2215,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/westiedoge",
+                href: "https://t.me/virago",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/westiedogetoken",
+        href: "https://twitter.com/virago",
     },
     {
         label: "Reddit",
